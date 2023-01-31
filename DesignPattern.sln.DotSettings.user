@@ -6,5 +6,6 @@
     &lt;TestId&gt;NUnit3x::3DFA9511-E1DA-43BE-909A-5553122B1D79::net6.0::DesignPattern.FactoryPattern.AbstractFactory.Program.Test&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::3DFA9511-E1DA-43BE-909A-5553122B1D79::net6.0::DesignPattern.BuilderPattern.Program.Test&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::3DFA9511-E1DA-43BE-909A-5553122B1D79::net6.0::DesignPattern.SingletonPattern.Program.Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3DFA9511-E1DA-43BE-909A-5553122B1D79::net6.0::DesignPattern.CompositePattern.Program.Test&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
