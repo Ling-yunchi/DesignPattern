@@ -1,11 +1,9 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=341861d8_002D6b24_002D4cb9_002D9f83_002Dd70bda8aa648/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::3DFA9511-E1DA-43BE-909A-5553122B1D79::net6.0::DesignPattern.FactoryPattern.Factory.Program.Test&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::3DFA9511-E1DA-43BE-909A-5553122B1D79::net6.0::DesignPattern.FactoryPattern.SimpleFactory.Program.Test&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::3DFA9511-E1DA-43BE-909A-5553122B1D79::net6.0::DesignPattern.FactoryPattern.AbstractFactory.Program.Test&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::3DFA9511-E1DA-43BE-909A-5553122B1D79::net6.0::DesignPattern.BuilderPattern.Program.Test&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::3DFA9511-E1DA-43BE-909A-5553122B1D79::net6.0::DesignPattern.SingletonPattern.Program.Test&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::3DFA9511-E1DA-43BE-909A-5553122B1D79::net6.0::DesignPattern.CompositePattern.Program.Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3DFA9511-E1DA-43BE-909A-5553122B1D79::net6.0::DesignPattern.StructuralPattern.AdapterPattern.Program.Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3DFA9511-E1DA-43BE-909A-5553122B1D79::net6.0::DesignPattern.StructuralPattern.FacadePattern.Program.Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3DFA9511-E1DA-43BE-909A-5553122B1D79::net6.0::DesignPattern.StructuralPattern.BridgePattern.Programs.Test&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
-&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
+&lt;/SessionState&gt;</s:String>
+	<s:Boolean x:Key="/Default/UserDictionary/Words/=Creational/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>
