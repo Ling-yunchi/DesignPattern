@@ -4,6 +4,12 @@
     &lt;TestId&gt;NUnit3x::3DFA9511-E1DA-43BE-909A-5553122B1D79::net6.0::DesignPattern.StructuralPattern.AdapterPattern.Program.Test&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::3DFA9511-E1DA-43BE-909A-5553122B1D79::net6.0::DesignPattern.StructuralPattern.FacadePattern.Program.Test&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::3DFA9511-E1DA-43BE-909A-5553122B1D79::net6.0::DesignPattern.StructuralPattern.BridgePattern.Programs.Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3DFA9511-E1DA-43BE-909A-5553122B1D79::net6.0::DesignPattern.BehavioralPattern.IteratorPattern.Program.Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3DFA9511-E1DA-43BE-909A-5553122B1D79::net6.0::DesignPattern.BehavioralPattern.VisitorPattern.Program.Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3DFA9511-E1DA-43BE-909A-5553122B1D79::net6.0::DesignPattern.BehavioralPattern.CommandPatterm.Program.Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3DFA9511-E1DA-43BE-909A-5553122B1D79::net6.0::DesignPattern.BehavioralPattern.MediatorPattern.Program.Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3DFA9511-E1DA-43BE-909A-5553122B1D79::net6.0::DesignPattern.BehavioralPattern.StrategyPattern.Program.Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3DFA9511-E1DA-43BE-909A-5553122B1D79::net6.0::DesignPattern.BehavioralPattern.StatePattern.Program.Test&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	<s:Boolean x:Key="/Default/UserDictionary/Words/=Creational/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>
