@@ -1,16 +1,11 @@
-﻿namespace DesignPattern.DataflowArchitecture.BatchSequentialDataflowSystem;
+﻿using System.IO.Pipes;
 
-public class UppercaseProcess : IProcess
+namespace DesignPattern.DataflowArchitecture.BatchSequentialDataflowSystem;
+
+public class UppercaseProcess : Process
 {
-    Stream _input;
-    Stream _output;
-    public UppercaseProcess(Stream input, Stream output)
-    {
-        _input = input;
-        _output = output;
-    }
-
-    public void ProcessData() {
+    public UppercaseProcess(PipeStream input, PipeStream output) : base(input, output) { }
+    public override void ProcessData() {
         var reader = new StreamReader(_input);
         var writer = new StreamWriter(_output);
         while (true) {
@@ -21,6 +16,5 @@ public class UppercaseProcess : IProcess
             writer.WriteLine(line.ToUpper());
         }
         writer.Flush();
-        _output.Position = 0;
     }
 }

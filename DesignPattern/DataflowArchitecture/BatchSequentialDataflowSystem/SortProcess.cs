@@ -1,19 +1,15 @@
-﻿namespace DesignPattern.DataflowArchitecture.BatchSequentialDataflowSystem;
+﻿using System.IO.Pipes;
 
-public class SortProcess: IProcess
+namespace DesignPattern.DataflowArchitecture.BatchSequentialDataflowSystem;
+
+public class SortProcess: Process
 {
-    Stream _input;
-    Stream _output;
-    public SortProcess(Stream input, Stream output)
-    {
-        _input = input;
-        _output = output;
-    }
-    public void ProcessData() {
+    public SortProcess(PipeStream input, PipeStream output) : base(input, output) { }
+    public override void ProcessData() {
         var reader = new StreamReader(_input);
         var writer = new StreamWriter(_output);
         var lines = new List<string>();
-        while (true) {
+        while (reader.Peek() != -1) {
             var line = reader.ReadLine();
             if (line == null) {
                 break;
@@ -25,6 +21,5 @@ public class SortProcess: IProcess
             writer.WriteLine(line);
         }
         writer.Flush();
-        _output.Position = 0;
     }
 }
