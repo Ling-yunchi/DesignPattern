@@ -14,6 +14,7 @@
 
     <ItemGroup>
       <Folder Include="CreationalPattern" />
+      <Folder Include="EventSystemArchitecture" />
     </ItemGroup>
 
 </Project>

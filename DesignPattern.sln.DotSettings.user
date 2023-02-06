@@ -1,5 +1,15 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=341861d8_002D6b24_002D4cb9_002D9f83_002Dd70bda8aa648/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=157b3e0b_002D5b30_002D4099_002D9d3b_002D1325513939aa/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3DFA9511-E1DA-43BE-909A-5553122B1D79::net6.0::DesignPattern.DataflowArchitecture.PipeFilterDataflowSystem.Program.Test&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=296c3437_002D76d1_002D44cd_002D893f_002Da70ee7cf1017/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3DFA9511-E1DA-43BE-909A-5553122B1D79::net6.0::DesignPattern.DataflowArchitecture.PipeFilterDataflowSystem.Program.Test&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=341861d8_002D6b24_002D4cb9_002D9f83_002Dd70bda8aa648/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::3DFA9511-E1DA-43BE-909A-5553122B1D79::net6.0::DesignPattern.StructuralPattern.AdapterPattern.Program.Test&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::3DFA9511-E1DA-43BE-909A-5553122B1D79::net6.0::DesignPattern.StructuralPattern.FacadePattern.Program.Test&lt;/TestId&gt;&#xD;
@@ -10,6 +20,15 @@
     &lt;TestId&gt;NUnit3x::3DFA9511-E1DA-43BE-909A-5553122B1D79::net6.0::DesignPattern.BehavioralPattern.MediatorPattern.Program.Test&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::3DFA9511-E1DA-43BE-909A-5553122B1D79::net6.0::DesignPattern.BehavioralPattern.StrategyPattern.Program.Test&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::3DFA9511-E1DA-43BE-909A-5553122B1D79::net6.0::DesignPattern.BehavioralPattern.StatePattern.Program.Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3DFA9511-E1DA-43BE-909A-5553122B1D79::net6.0::DesignPattern.CallAndReturnArchitecture.MainSubProgram.Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3DFA9511-E1DA-43BE-909A-5553122B1D79::net6.0::DesignPattern.CallAndReturnArchitecture.OOP.Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3DFA9511-E1DA-43BE-909A-5553122B1D79::net6.0::DesignPattern.DataflowArchitecture.BatchSequentialDataflowSystem.Program.Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3DFA9511-E1DA-43BE-909A-5553122B1D79::net6.0::DesignPattern.DataflowArchitecture.PipeFilterDataflowSystem.Program.Test&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=406028cc_002De4fc_002D49ca_002D93b1_002Dae47eeed4abb/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3DFA9511-E1DA-43BE-909A-5553122B1D79::net6.0::DesignPattern.DataflowArchitecture.PipeFilterDataflowSystem.Program.Test&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	<s:Boolean x:Key="/Default/UserDictionary/Words/=Creational/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>
